@@ -1,0 +1,4 @@
+baseURL = 'https://ortizma.com/'
+languageCode = 'en-us'
+title = 'OrtizMa'
+theme = 'stack'
