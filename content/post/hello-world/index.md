@@ -15,7 +15,7 @@ Hello, everyone! I'm Pablo, and I'm thrilled to share my story with you.
 
 Since I gained the ability to reason, I've been captivated by the workings of everything around me. Among all the subjects that intrigued me, computers held a special fascination. The layers of complexity behind their operation seemed endless, and they offered me the opportunity to solve problems in a logical manner that would otherwise be mechanical tasks.
 
-> ![Cardboard computer I made around 2006](pablo-computer.jpg)
+> ![Cardboard computer I made around 2006](images/pablo-computer.jpg)
 > *Cardboard computer I made around 2006* 
 
 My insatiable curiosity led me to explore numerous topics, often deemed too complex for a child. This led me to countless disagreements with the education system, which is centered around standardized learning and a limited set of concepts for everyone to follow.
@@ -32,6 +32,8 @@ During my professional career, I've had the opportunity to learn at a faster rat
 
 Driven by my desire to connect with like-minded individuals and share the knowledge I've acquired, I've taken the leap and created this website. It's my personal platform, a place where I can bridge the gap between my love for problem-solving and my longing to connect with others who share similar interests.
 
-I'll be writing articles that provide insightful explanations and a touch of personal perspective to showcase the solutions I found to a plethora of engineering problems. But I must confess, communication is an ongoing struggle for me. Yet, I firmly believe that with dedication and persistence, I can acquire and refine this essential skill. While it may not come naturally, I'm committed to pushing myself out of my comfort zone, learning from every interaction, and becoming a better communicator.
+I'll be writing articles that provide insightful explanations and a touch of personal perspective to showcase the solutions I found to a plethora of engineering problems. 
+I must confess, communication is an ongoing struggle for me, but I firmly believe that with dedication and persistence, I can acquire and refine this essential skill. 
+While it may not come naturally, I'm committed to pushing myself out of my comfort zone, learning from every interaction, and becoming a better communicator.
 
 So, let's embark on this journey together. Stay tuned for the next post, hopefully by next week!
