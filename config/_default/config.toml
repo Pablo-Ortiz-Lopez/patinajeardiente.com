@@ -1,0 +1,10 @@
+baseurl = "https://ortizma.com"
+languageCode = "en-us"
+paginate = 5
+title = "Pablo Ortiz López"
+DefaultContentLanguage = "en"
+hasCJKLanguage = false
+disqusShortname = "ortizma-com"
+
+# Theme i18n support
+# Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
