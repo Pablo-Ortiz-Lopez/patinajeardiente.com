@@ -13,7 +13,7 @@ tags:
 
 Hello, everyone! I'm Pablo, and I'm thrilled to share my story with you. 
 
-Since I gained the ability to reason, I've been captivated by the workings of everything around me. Among all the subjects that intrigued me, computers held a special fascination. The layers of complexity behind their operation seemed endless, and they offered me the opportunity to solve problems in a logical manner that would otherwise be mechanical tasks.
+Ever since I gained the ability to reason, I've been captivated by how everything around me works. Computers, in particular, held a special fascination. The layers of complexity behind their operation seemed endless, and they offered me the opportunity to solve problems in a logical manner that would otherwise be mechanical tasks.
 
 > ![Cardboard computer I made around 2006](images/pablo-computer.jpg)
 > *Cardboard computer I made around 2006* 
@@ -26,14 +26,15 @@ During my secondary education I started coding, more often as I started getting 
 
 By the time I reached university, I started looking into electronics on my own, while at the same time learning a few useful concepts through formal education. Despite some improvement compared to my previous educational experiences, I was still very disappointed with university, and ultimately made the decision to quit university as soon as I found a job as a software developer.
 
-However, as much as I revel in the realm of logic and reason, there's another aspect of life where I face a different kind of challenge. Socializing and communication have always been stumbling blocks for me. Sharing the wealth of knowledge I've gathered over the years doesn't come as naturally to me as solving complex logical problems. Nonetheless, I am determined to improve in this aspect.
+As much as I enjoy the realm of logic and reason, I face different challenges in socializing and communication. Sharing the wealth of knowledge I have gathered over the years doesn't come as naturally to me as solving complex problems. Nevertheless, I am determined to improve in this aspect.
 
-During my professional career, I've had the opportunity to learn at a faster rate than I ever did. Putting concepts into real-life use for a living has really been a turning point in my pursuit of knowledge. Despite that, it also highlighted the importance of good communication, a skill that has hindered my growth as an engineer.
+During my professional career, I've had the opportunity to learn at a faster rate than I ever did. Putting concepts into real-life use for a living has really been a turning point in my pursuit of knowledge. Despite that, it has also highlighted the importance of good communication, a skill that has hindered my growth as an engineer.
 
 Driven by my desire to connect with like-minded individuals and share the knowledge I've acquired, I've taken the leap and created this website. It's my personal platform, a place where I can bridge the gap between my love for problem-solving and my longing to connect with others who share similar interests.
 
-I'll be writing articles that provide insightful explanations and a touch of personal perspective to showcase the solutions I found to a plethora of engineering problems. 
-I must confess, communication is an ongoing struggle for me, but I firmly believe that with dedication and persistence, I can acquire and refine this essential skill. 
+Through articles on this website, I'll provide insightful explanations and a touch of personal perspective to showcase the solutions I found to a plethora of engineering problems. 
+Communication remains a challenge for me, but I firmly believe that with dedication and persistence, I can acquire and refine this essential skill. 
+
 While it may not come naturally, I'm committed to pushing myself out of my comfort zone, learning from every interaction, and becoming a better communicator.
 
 So, let's embark on this journey together. Stay tuned for the next post, hopefully by next week!
