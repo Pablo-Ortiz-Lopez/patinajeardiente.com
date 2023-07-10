@@ -2,7 +2,7 @@
 title: Hello World
 description: A brief explanation of who I am, and why I made this page in the first place.
 slug: hello-world
-date: 2022-07-09
+date: 2023-07-09
 image: cover.jpg
 categories:
     - Personal
