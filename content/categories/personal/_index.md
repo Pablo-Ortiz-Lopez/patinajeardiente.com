@@ -1,6 +1,6 @@
 ---
-title: Personal
-description: Posts about my personal life
+title: Patinaje Ardiente
+description: Articulos sobre patinaje ardiente
 image:
 
 # Badge style
