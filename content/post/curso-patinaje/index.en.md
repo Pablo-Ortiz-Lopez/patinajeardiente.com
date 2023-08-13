@@ -1,7 +1,7 @@
 ---
 title: "Inline skating course"
 description: "Ignite your inner flame: The Road to Patinaje Ardiente"
-slug: curso-de-patinaje
+slug: inline-skating-course
 date: 2023-08-13
 image: cover.jpg
 categories:
