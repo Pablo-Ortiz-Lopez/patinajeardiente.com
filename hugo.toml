@@ -1,4 +1,28 @@
-baseURL = 'https://ortizma.com/'
-languageCode = 'en-us'
-title = 'Pablo Ortiz López'
+baseURL = 'https://patinajeardiente.com/'
+languageCode = 'es-es'
+title = 'Patinaje Ardiente'
 theme = 'stack'
+
+defaultContentLanguage = 'es'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.es]
+    contentDir = 'content/es'
+    disabled = false
+    languageCode = 'es'
+    languageDirection = 'ltr'
+    languageName = 'Español'
+    title = 'Patinaje Ardiente'
+    weight = 1
+    [languages.de.params]
+      subtitle = 'Patinaje Ardiente'
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Patinaje Ardiente'
+    weight = 1
+    [languages.en.params]
+      subtitle = 'Patinaje Ardiente'

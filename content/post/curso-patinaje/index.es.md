@@ -5,9 +5,9 @@ slug: curso-de-patinaje
 date: 2023-08-13
 image: cover.jpg
 categories:
-    - Cursos
+    - Curso
 tags:
-    - patinaje
+    - patinaje-en-linea
     - curso
 ---
 
@@ -17,7 +17,7 @@ tags:
 
 A aquellos que están iniciándose en el mundo del patinaje, desean superar la inseguridad y construir habilidades sólidas para participar en "Patinaje Ardiente" o patinar con soltura y confianza en su propio camino.
 
-**Fase 1: Descubriendo el Fuego Interior**
+## Fase 1: Descubriendo el Fuego Interior
 
 **Programa de Fase 1:**
 
@@ -64,7 +64,7 @@ A aquellos que están iniciándose en el mundo del patinaje, desean superar la i
 
 **Precio Fase 1:** 49€ (solo 5,3€/hora)
 
-**Fase 2: Acariciando la Emoción de la Competición**
+## Fase 2: Acariciando la Emoción de la Competición
 
 **Programa de Fase 2:**
 
@@ -102,9 +102,11 @@ A aquellos que están iniciándose en el mundo del patinaje, desean superar la i
 
 **Precio Fase 2:** 49€ (solo 4,6€/hora)
 
+--- 
+
 La **UBICACIÓN** donde se harán todas las clases grupales será en el tramo del Paseo de García Faria que queda justo en frente del Hotel Front Maritim Barcelona.
 
-**¡Inscríbete Ahora y Aviva tu Pasión por el Patinaje!**
+## ¡Inscríbete Ahora y Aviva tu Pasión por el Patinaje!
 
 Ambas fases comienzan dos semanas después de que haya al menos 5 personas inscritas, permitiendo una experiencia grupal enriquecedora. Con un límite de 10 participantes por fase, asegura tu lugar y enciende la llama de tu confianza sobre ruedas.
 
