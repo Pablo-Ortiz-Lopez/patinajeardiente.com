@@ -65,8 +65,8 @@ Phase 1 Program:
 
 **Total Phase 1 Time:** 9 hours and 15 minutes
 
-**Phase 1 Price:** €49 (only €5.30/hour)
-
+# Phase 1 Price: €49 (only €5.30/hour)
+---
 ## Phase 2: Embracing the Thrill of Competition
 Phase 2 Program:
 
@@ -108,7 +108,7 @@ Phase 2 Program:
 
 **Total Phase 2 Time:** 10 hours and 45 minutes 
 
-**Phase 2 Price:** €49 (only €4.60/hour)
+# Phase 2 Price: €49 (only €4.60/hour)
 
 --- 
 
