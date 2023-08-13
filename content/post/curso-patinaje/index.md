@@ -1,14 +1,14 @@
 ---
-title: Curso de patinaje en línea
-description: Curso: "Liberando tu llama interior: Rumbo a Patinaje Ardiente"
+title: "Curso de patinaje en línea"
+description: "Liberando tu llama interior: Rumbo a Patinaje Ardiente"
 slug: curso-de-patinaje
 date: 2023-08-13
 image: cover.jpg
 categories:
-    - Patinaje-Ardiente
+    - Cursos
 tags:
     - patinaje
-    - proyecto
+    - curso
 ---
 
 ¡Domina el arte del patinaje y enciende tu pasión por desafíos emocionantes con nuestro curso diseñado para llevarte de ser un principiante inseguro a un patinador confiado y listo para la acción! Este curso intensivo te brinda las habilidades y la seguridad necesarias para unirte a la competición "Patinaje Ardiente" o patinar con libertad por tu cuenta. Está diseñado específicamente para aquellos que se sienten inseguros y buscan una experiencia transformadora sobre ruedas.
