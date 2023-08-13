@@ -29,7 +29,8 @@ A aquellos que están iniciándose en el mundo del patinaje, desean superar la i
     - Aprender a caer 
     - Posición de seguridad
     - Frenar con taco en plano
-  - Ruta de Toma de Contacto: miércoles de 20:00h a 21:00h 
+  - Ruta de Toma de Contacto: 
+    - Miércoles de 20:00h a 21:00h 
     - Duración: 60 minutos
     - Lugar de inicio de la ruta: tramo del Paseo de García Faria que queda justo en frente del Hotel Front Maritim Barcelona
 - **Semana 2:** 
@@ -46,7 +47,8 @@ A aquellos que están iniciándose en el mundo del patinaje, desean superar la i
     - Posición de seguridad inversa
     - Giro en posición de seguridad e inversa en plano
     - Alternar posición de seguridad con posición de seguridad inversa
-  - Ruta de Adaptación Urbana: miércoles de 20:00h a 21:20h 
+  - Ruta de Adaptación Urbana: 
+    - Miércoles de 20:00h a 21:20h 
     - Duración: 80 minutos
     - Lugar de inicio de la ruta: tramo del Paseo de García Faria que queda justo en frente del Hotel Front Maritim Barcelona
 - **Semana 4:** 
@@ -62,7 +64,8 @@ A aquellos que están iniciándose en el mundo del patinaje, desean superar la i
     - Control en velocidad punta máxima
     - Giro en A en rampa
     - Giro en posición de seguridad en rampa
-  - Ruta Sant Martí Challenge: miércoles de 19:45h a 21:40h 
+  - Ruta Sant Martí Challenge: 
+    - Miércoles de 19:45h a 21:40h 
     - Duración: 100 minutos
     - Lugar de inicio de la ruta: tramo del Paseo de García Faria que queda justo en frente del Eurohotel Diagonal Port
 
@@ -81,7 +84,8 @@ A aquellos que están iniciándose en el mundo del patinaje, desean superar la i
     - Patinar en línea recta, cruzar pierna y recuperar
     - Patinar sobre una pierna 
     - Freno en T
-  - Ruta Explora el Distrito de Sant Andreu: jueves de 19:45h a 21:40h 
+  - Ruta Explora el Distrito de Sant Andreu: 
+    - Jueves de 19:45h a 21:40h 
     - Duración: 100 minutos 
     - Lugar de inicio de la ruta: Jardins de Jaume Ferran i Clua
 - **Semana 2:** 
@@ -95,7 +99,8 @@ A aquellos que están iniciándose en el mundo del patinaje, desean superar la i
     - Sortear obstáculos cruzando los patines
     - Patinar con sólo dos ruedas
     - Saltar obstáculos
-  - Ruta Conquista el Distrito del Eixample: jueves de 19:45h a 21:40h 
+  - Ruta Conquista el Distrito del Eixample: 
+    - Jueves de 19:45h a 21:40h 
     - Duración: 100 minutos 
     - Lugar de inicio de la ruta: Plaza de André Malraux
 - **Semana 4:** 
@@ -107,7 +112,8 @@ A aquellos que están iniciándose en el mundo del patinaje, desean superar la i
   - Clase grupal el martes de 20:30h a 21:30h
     - Frenada de Powerslide 
     - Skatecross aplicando todo lo aprendido
-  - Ruta Definitiva en el Distrito de Sants-Montjuïc: jueves de 19:45h a 21:40h 
+  - Ruta Definitiva en el Distrito de Sants-Montjuïc: 
+    - Jueves de 19:45h a 21:40h
     - Duración: 100 minutos
     - Lugar de inicio de la ruta: Jardins de Màlaga
 

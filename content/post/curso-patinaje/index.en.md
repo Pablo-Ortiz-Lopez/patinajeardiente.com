@@ -27,7 +27,8 @@ Phase 1 Program:
     - Learning to fall
     - Safety stance
     - Braking with the heel stop on flat ground
-  - Contact Intro Route: Wednesday from 8:00 PM to 9:00 PM 
+  - Contact Intro Route: 
+    - Wednesday from 8:00 PM to 9:00 PM 
     - Duration: 60 minutes 
     - Starting point: section of Paseo de García Faria in front of Hotel Front Maritim Barcelona
 - **Week 2:**
@@ -43,7 +44,8 @@ Phase 1 Program:
     - Reverse safety position
     - A-frame and reverse A-frame turn on flat ground
     - Alternating safety and reverse safety positions
-  - Urban Adaptation Route: Wednesday from 8:00 PM to 9:20 PM  
+  - Urban Adaptation Route: 
+    - Wednesday from 8:00 PM to 9:20 PM  
     - Duration: 80 minutes 
     - Starting point: section of Paseo de García Faria in front of Hotel Front Maritim Barcelona
 - **Week 4:**
@@ -59,7 +61,8 @@ Phase 1 Program:
     - Control at maximum speed
     - A-frame turn on a ramp
     - Safety position turn on a ramp
-  - Sant Martí Challenge Route: Wednesday from 7:45 PM to 9:40 PM 
+  - Sant Martí Challenge Route: 
+    - Wednesday from 7:45 PM to 9:40 PM 
     - Duration: 100 minutes 
     - Starting point: section of Paseo de García Faria in front of Eurohotel Diagonal Port
 
@@ -76,7 +79,8 @@ Phase 2 Program:
     - Inline skating straight, crossing leg, and recovering
     - One-legged inline skating
     - Inline T-stop
-  - Explore Sant Andreu District Route: Thursday from 7:45 PM to 9:40 PM 
+  - Explore Sant Andreu District Route: 
+    - Thursday from 7:45 PM to 9:40 PM 
     - Duration: 100 minutes 
     - Starting point: Jardins de Jaume Ferran i Clua
 - **Week 2:**
@@ -90,7 +94,8 @@ Phase 2 Program:
     - Navigating obstacles by crossing skates
     - Skating with only two wheels
     - Jumping obstacles
-  - Conquer Eixample District Route: Thursday from 7:45 PM to 9:40 PM 
+  - Conquer Eixample District Route: 
+    - Thursday from 7:45 PM to 9:40 PM 
     - Duration: 100 minutes 
     - Starting point: Plaza de André Malraux
 - **Week 4:**
@@ -102,7 +107,8 @@ Phase 2 Program:
   - Group class on Tuesday from 8:30 PM to 9:30 PM
     - Inline powerslide stop
     - Applying all learned skills in an inline skatecross
-  - Ultimate Sants-Montjuïc District Route: Thursday from 7:45 PM to 9:40 PM 
+  - Ultimate Sants-Montjuïc District Route: 
+    - Thursday from 7:45 PM to 9:40 PM 
     - Duration: 100 minutes 
     - Starting point: Jardins de Màlaga
 
