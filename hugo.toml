@@ -10,6 +10,9 @@ hasCJKLanguage = false
 defaultContentLanguage = 'es'
 defaultContentLanguageInSubdir = false
 
+[markup.goldmark.renderer]
+  unsafe = true
+  
 [languages]
   [languages.es]
     contentDir = 'content/es'

@@ -3,7 +3,7 @@ title: "Curso de patinaje en línea"
 description: "Liberando tu llama interior: Rumbo a Patinaje Ardiente"
 slug: curso-de-patinaje
 date: 2023-08-13
-image: cover.jpg
+image: cover2.jpg
 categories:
     - Curso
 tags:
@@ -71,7 +71,7 @@ A aquellos que están iniciándose en el mundo del patinaje, desean superar la i
 
 **Tiempo total Fase 1:** 9 horas y 15 minutos
 
-# Precio Fase 1: 49€ (solo 5,3€/hora)
+> Precio Fase 1: 49€ (solo 5,3€/hora)
 ---
 
 ## Fase 2: Acariciando la Emoción de la Competición
@@ -119,7 +119,7 @@ A aquellos que están iniciándose en el mundo del patinaje, desean superar la i
 
 **Tiempo total Fase 2:** 10horas y 45 minutos
 
-# Precio Fase 2: 49€ (solo 4,6€/hora)
+> Precio Fase 2: 49€ (solo 4,6€/hora)
 
 --- 
 
