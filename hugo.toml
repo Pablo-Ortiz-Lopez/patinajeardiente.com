@@ -2,9 +2,14 @@ baseURL = 'https://patinajeardiente.com/'
 languageCode = 'es-es'
 title = 'Patinaje Ardiente'
 theme = 'stack'
+paginate = 5
+hasCJKLanguage = false
 
+# Theme i18n support
+# Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
 defaultContentLanguage = 'es'
 defaultContentLanguageInSubdir = false
+
 [languages]
   [languages.es]
     contentDir = 'content/es'
