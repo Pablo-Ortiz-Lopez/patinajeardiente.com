@@ -68,7 +68,7 @@ Phase 1 Program:
 
 **Total Phase 1 Time:** 9 hours and 15 minutes
 
-> Phase 1 Price: €49 (only €5.30/hour)
+> Phase 1 Price: €69 (only €7.50/hour)
 
 ---
 
@@ -116,11 +116,11 @@ Phase 2 Program:
 
 **Total Phase 2 Time:** 10 hours and 45 minutes 
 
-> Phase 2 Price: €49 (only €4.60/hour)
+> Phase 2 Price: €69 (only €6.40/hour)
 
 --- 
 
-All group classes will be held at the section of Paseo de García Faria in front of Hotel Front Maritim Barcelona.
+The **LOCATION** where all group classes will take place is on the stretch of Paseo de García Faria that is right in front of the school "Voramón Batxillerat Internacional"
 
 ## Enroll Now and Fuel Your Passion for Inline Skating!
 
