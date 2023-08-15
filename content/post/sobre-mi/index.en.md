@@ -2,7 +2,7 @@
 title: "My Journey in the World of Inline Skating "
 description: "Memories and Lived Experiences"
 slug: about-me
-date: 2023-08-14
+date: 2023-08-13
 image: cover3.jpg
 categories:
     - About me

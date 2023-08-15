@@ -2,7 +2,7 @@
 title: "Mi viaje en el mundo del patinaje en línea"
 description: "Recuerdos y experiencias vividas"
 slug: sobre-mi
-date: 2023-08-14
+date: 2023-08-13
 image: cover3.jpg
 categories:
     - Sobre mí
