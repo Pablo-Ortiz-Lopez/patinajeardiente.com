@@ -9,6 +9,7 @@ categories:
 tags:
     - inline-skating
     - competition
+    - prize
 ---
 
 The Patinaje Ardiente Competition presents itself as an exciting initiative aimed at promoting inline skating and exploring the iconic landmarks of Barcelona through an incredibly innovative approach. This event consists of an individual inline skating competition in which all participants start from the same point, and the playing field encompasses a specific district of Barcelona. Each district houses a series of emblematic points, known as "hot spots". Upon beginning the competition, competitors head to the designated hot spot, which is valid for scoring during a 20-minute interval. The main objective is to reach the hot spot and capture a selfie in the shortest possible time, thus accumulating the maximum amount of points.

@@ -9,6 +9,7 @@ categories:
 tags:
     - patinaje-en-linea
     - competicion
+    - premio
 ---
 
 La competición de Patinaje Ardiente se presenta como una emocionante iniciativa destinada a promover el patinaje y explorar los enclaves icónicos de Barcelona, mediante un enfoque sumamente novedoso. Este evento consiste en una competición individual de patinaje en la que todos los participantes arrancan desde un mismo punto y el escenario de juego abarca un distrito específico de Barcelona. Cada distrito alberga una serie de puntos emblemáticos, conocidos como "puntos calientes". Al iniciar la competición, los competidores se dirigen al punto caliente designado, el cual será válido para puntuación durante un intervalo de 20 minutos. El objetivo principal es llegar al punto caliente y capturar un selfie en el menor tiempo posible, acumulando así la máxima cantidad de puntos.
