@@ -23,7 +23,7 @@ Durante el período previo al sorteo, Marc estará patinando disfrazado de Wally
 ### ¡Importante!
 
 - Mantén la foto en tu Instastory durante 24 horas.
-- Si tienes la cuenta de instagram privada, debes enviar una captura de pantalla del instastory a @patinajeardiente. Si no lo haces, no podrás participar en el sorteo.
+- Si tienes la cuenta de instagram privada, debes enviar una captura de pantalla del instastory a `@patinajeardiente`. Si no lo haces, no podrás participar en el sorteo.
 
 ## Retransmisión y Sorteo
 

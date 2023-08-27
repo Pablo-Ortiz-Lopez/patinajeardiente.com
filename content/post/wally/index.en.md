@@ -23,7 +23,7 @@ During the period leading up to the giveaway, Marc will be rollerblading dressed
 ### Important!
 
 - Keep the photo on your Instastory for 24 hours.
-- If you have a private Instagram account, you must send a screenshot of the Instastory to @patinajeardiente. If you don't do this, you won't be able to participate in the giveaway.
+- If you have a private Instagram account, you must send a screenshot of the Instastory to `@patinajeardiente`. If you don't do this, you won't be able to participate in the giveaway.
 
 ## Live Streaming and Giveaway
 
