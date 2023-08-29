@@ -27,7 +27,7 @@ During the period leading up to the giveaway, Marc will be rollerblading dressed
 
 ## Live Streaming and Giveaway
 
-- The giveaway will be livestreamed on Twitch on the account `patinajeardiente`.
+- The giveaway will be livestreamed on Twitch on the account `patinajeardiente` and it will take place on Saturday, September 16th at 8:00 PM.
 - The giveaway consists of a virtual marble racing tournament with elimination rounds, culminating in a single winner!
 
 ## Winner Selection

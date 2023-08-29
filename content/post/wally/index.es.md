@@ -27,7 +27,7 @@ Durante el período previo al sorteo, Marc estará patinando disfrazado de Wally
 
 ## Retransmisión y Sorteo
 
-- El sorteo será retransmitido en Twitch en la cuenta `patinajeardiente`.
+- El sorteo será retransmitido en Twitch en la cuenta `patinajeardiente` y tendrá lugar el sábado 16 de septiembre a las 20:00 horas.
 - El sorteo consiste en un torneo de carreras de canicas virtual de fases eliminatorias, ¡con un único ganador!
 
 ## Selección del Ganador
