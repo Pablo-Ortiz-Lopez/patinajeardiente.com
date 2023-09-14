@@ -3,7 +3,7 @@ title: "¿Dónde está Marc?"
 description: "Sorteo gratuito con un premio monetario"
 slug: donde-esta-marc
 date: 2023-08-22
-image: cover.jpg
+image: cover4.jpg
 categories:
     - "¿Dónde está Marc?"
 tags:

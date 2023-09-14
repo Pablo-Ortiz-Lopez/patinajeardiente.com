@@ -3,7 +3,7 @@ title: "Where is Marc?"
 description: "Free Giveaway with a Cash Prize"
 slug: where-is-marc
 date: 2023-08-22
-image: cover.jpg
+image: cover4.jpg
 categories:
     - "Where is Marc?"
 tags:
