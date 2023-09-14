@@ -13,7 +13,7 @@ tags:
 ## **Tabla de precios asociados**
 Conviértete en **socio** de la Asociación por **sólo** **5€/mes** colaborando para que el proyecto tire adelante y disfruta de las siguientes **ventajas**:
 
-|**Clases de patinaje**|39€/mes|1h todos los domingos|
+|**Clases de patinaje**|39€/mes|1h a la semana|
 | :-: | :-: | :-: |
 |**Competición (todas las jornadas)**|9€/mes|A partir de la Temporada 2|
 |**Competición (1 día)**|3€|Aventúrate y descubre la magia de la competición|
@@ -23,7 +23,7 @@ Conviértete en **socio** de la Asociación por **sólo** **5€/mes** colaboran
 ## **Tabla de precios no asociados**
 Los **precios** para los **no asociados** serán los siguientes:
 
-|**Clases de patinaje**|59€/mes|1h todos los domingos|
+|**Clases de patinaje**|59€/mes|1h a la semana|
 | :-: | :-: | :-: |
 |**Competición (todas las jornadas)**|19€/mes|A partir de la Temporada 2|
 |**Competición (1 día)**|6€|Aventúrate y descubre la magia de la competición|

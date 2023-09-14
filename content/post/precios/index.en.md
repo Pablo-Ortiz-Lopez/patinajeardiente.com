@@ -13,7 +13,7 @@ tags:
 ## **Price list for associates**
 Become a **member** of the Association for **only** **€5/month**, contributing to the project's progress, and enjoy the following **benefits**:
 
-|**Inline skating classes**|€39/month|1 hour every Sunday|
+|**Inline skating classes**|€39/month|1 hour per week|
 | :-: | :-: | :-: |
 |**Competition (all sessions)**|€9/month|Starting from Season 2|
 |**Competition (1 day)**|€3|Venture out and discover the magic of the competition|
@@ -23,7 +23,7 @@ Become a **member** of the Association for **only** **€5/month**, contributing
 ## **Prices for non-members**
 The **prices** for **non-members** will be as follows:
 
-|**Inline skating classes**|€59/month|1 hour every Sunday|
+|**Inline skating classes**|€59/month|1 hour per week|
 | :-: | :-: | :-: |
 |**Competition (all sessions)**|€19/month|Starting from Season 2|
 |**Competition (1 day)**|€6|Venture out and discover the magic of the competition|
