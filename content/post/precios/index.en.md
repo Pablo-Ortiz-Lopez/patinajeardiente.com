@@ -17,8 +17,7 @@ Become a **member** of the Association for **only** **€5/month**, contributing
 | :-: | :-: | :-: |
 |**Competition (all sessions)**|€9/month|Starting from Season 2|
 |**Competition (1 day)**|€3|Venture out and discover the magic of the competition|
-|**Where is Marc?**|1 direct participation + 1 extra participation for each district you attend from the competition|
-You will automatically participate in the Wally draw, and consistency in competition will be rewarded|
+|**Where is Marc?**|1 direct participation + 1 extra participation for each district you attend from the competition|You will automatically participate in the Wally draw, and consistency in competition will be rewarded|
 |**Enigma**|€4|Discover the enigma and win the jackpot!|
 
 ## **Prices for non-members**
