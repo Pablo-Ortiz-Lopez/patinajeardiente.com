@@ -1,6 +1,6 @@
 ---
 title: "Clases de patinaje en línea para todos los niveles"
-description: "Descubre el mundo del patinaje con nosotros"
+description: "¡Descubre el mundo del patinaje con nosotros! A partir de 4 años en adelante"
 slug: clases-de-patinaje
 date: 2023-08-13
 image: cover2.jpg
@@ -10,24 +10,23 @@ tags:
     - patinaje-en-linea
     - clases
 ---
+## **Horario:**
 
-## **Horario: Todos los Domingos**
-
-- Iniciación/Aventureros: 10:00h - 11:00h
-- Intermedio/Curiosos: 11:15h - 12:15h
-- Avanzado/Maestros: 12:30h - 13:30h
+- Iniciación/Aventureros: martes 17:45h - 18:45h o domingo 10:00h - 11:00h
+- Intermedio/Curiosos: martes 19:00h - 20:00h o domingo 11:15h - 12:15h
+- Avanzado/Maestros: jueves 18:30 - 19:30 o domingo 12:30h - 13:30h
 
 ## **Descripción de las clases:**
 
-1. **Iniciación/Aventureros (10:00h - 11:00h):**
+1. **Iniciación/Aventureros:**
      - Para principiantes que desean aprender desde cero o retomar el patinaje después de mucho tiempo.
      - Enfoque en adquirir seguridad y confianza en el mundo del patinaje.
      - Ideal para aquellos que se aventuran en esta actividad.
-1. **Intermedio/Curiosos (11:15h - 12:15h):**
+1. **Intermedio/Curiosos:**
      - Destinado a quienes ya dominan los fundamentos básicos del patinaje.
      - Descubrirás la inmensidad de conceptos en el patinaje, lo que avivará tu curiosidad. 
      - Construirás una base sólida que te proporcionará independencia y seguridad al patinar por tu cuenta.
-1. **Avanzado/Maestros (12:30h - 13:30h):**
+1. **Avanzado/Maestros:**
      - Diseñado para patinadores experimentados que dominan los fundamentos del patinaje con soltura.
      - Enfocado en explorar aspectos avanzados del patinaje aprendiendo trucos de un alto nivel técnico.
      - Busca elevar al máximo tu disfrute del patinaje, como recompensa a tu esfuerzo y dedicación.

@@ -1,6 +1,6 @@
 ---
 title: "Inline skating classes for all levels"
-description: "Explore the world of inline skating with us"
+description: "Discover the world of inline skating with us! From 4 years old and up."
 slug: inline-skating-classes
 date: 2023-08-13
 image: cover2.jpg
@@ -10,23 +10,23 @@ tags:
     - inline-skating
     - classes
 ---
-## **Schedule: Every Sunday**
+## **Schedule:**
 
-- Beginners/Adventurers: 10:00 AM - 11:00 AM
-- Intermediate/Enthusiasts: 11:15 AM - 12:15 PM
-- Advanced/Masters: 12:30 PM - 1:30 PM
+- Beginners/Adventurers: Tuesday 5:45 PM - 6:45 PM or Sunday 10:00 AM - 11:00 AM
+- Intermediate/Enthusiasts: Tuesday 7:00 PM - 8:00 PM or Sunday 11:15 AM - 12:15 PM
+- Advanced/Masters: Thursday 6:30 PM - 7:30 PM or Sunday 12:30 PM - 1:30 PM
 
 ## **Class Descriptions:**
 
-1. **Beginners/Adventurers (10:00 AM - 11:00 AM):**
+1. **Beginners/Adventurers:**
      - For beginners looking to learn from scratch or get back into inline skating after a long break.
      - Focus on gaining confidence and security in the world of inline skating.
      - Ideal for those embarking on this activity.
-1. **Intermediate/Enthusiasts (11:15 AM - 12:15 PM):**
+1. **Intermediate/Enthusiasts:**
      - Aimed at those who already have a grasp of the basic fundamentals of inline skating.
      - You'll discover the vast array of concepts in inline skating, igniting your curiosity. 
      - Build a solid foundation that will provide independence and confidence when inline skating on your own.
-1. **Advanced/Masters (12:30 PM - 1:30 PM):**
+1. **Advanced/Masters:**
      - Designed for experienced inline skaters who have a strong command of inline skating fundamentals.
      - Focuses on exploring advanced aspects of inline skating, learning high-level technical tricks.
      - Aims to maximize your enjoyment of inline skating as a reward for your effort and dedication.
