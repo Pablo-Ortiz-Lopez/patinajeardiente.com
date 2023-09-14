@@ -25,12 +25,12 @@ tags:
      - Ideal para aquellos que se aventuran en esta actividad.
 1. **Intermedio/Curiosos (11:15h - 12:15h):**
      - Destinado a quienes ya dominan los fundamentos básicos del patinaje.
-     - Oportunidad para descubrir aspectos avanzados del patinaje y perfeccionar trucos.
-     - Busca llevar el patinaje a un nivel de excelencia.
+     - Descubrirás la inmensidad de conceptos en el patinaje, lo que avivará tu curiosidad. 
+     - Construirás una base sólida que te proporcionará independencia y seguridad al patinar por tu cuenta.
 1. **Avanzado/Maestros (12:30h - 13:30h):**
-     - Diseñado para patinadores experimentados que dominan el patinaje con soltura.
-     - Enfoque en compartir conocimientos y aprender de otros expertos.
-     - El instructor compartirá trucos secretos y puntos fuertes y débiles con los participantes.
+     - Diseñado para patinadores experimentados que dominan los fundamentos del patinaje con soltura.
+     - Enfocado en explorar aspectos avanzados del patinaje aprendiendo trucos de un alto nivel técnico.
+     - Busca elevar al máximo tu disfrute del patinaje, como recompensa a tu esfuerzo y dedicación.
 
 **Ubicación:** Todas las clases grupales se llevarán a cabo en el tramo del Paseo de García Faria, ubicado frente a la escuela "Voramón Batxillerat Internacional" los domingos.
 
