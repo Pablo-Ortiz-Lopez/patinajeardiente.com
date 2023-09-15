@@ -31,7 +31,7 @@ tags:
      - Focuses on exploring advanced aspects of inline skating, learning high-level technical tricks.
      - Aims to maximize your enjoyment of inline skating as a reward for your effort and dedication.
 
-**Location:** All group classes will take place on the stretch of Garcia Faria Promenade, located in front of "Voramón Batxillerat Internacional" on Sundays.
+**Location:** All group classes will take place on the stretch of "Paseo de García Faria", located in front of "Voramón Batxillerat Internacional" on Sundays.
 
 ## **Enroll Now and Ignite Your Passion for Inline Skating!**
 
