@@ -31,7 +31,7 @@ tags:
      - Enfocado en explorar aspectos avanzados del patinaje aprendiendo trucos de un alto nivel técnico.
      - Busca elevar al máximo tu disfrute del patinaje, como recompensa a tu esfuerzo y dedicación.
 
-**Ubicación:** Todas las clases grupales se llevarán a cabo en el tramo del Paseo de García Faria, ubicado frente a la escuela "Voramón Batxillerat Internacional" los domingos.
+**Ubicación:** Todas las clases grupales se llevarán a cabo en el tramo del Paseo de García Faria, ubicado frente a la escuela "Voramón Batxillerat Internacional".
 
 ## **¡Inscríbete Ahora y Aviva tu Pasión por el Patinaje!**
 
