@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = false
     languageName = 'Español'
     title = 'Patinaje Ardiente'
     weight = 1
-    [languages.es.params]
+    [languages.de.params]
       subtitle = 'Patinaje Ardiente'
     [languages.es.params.sidebar]
       subtitle = "En este blog podras encontrar toda la información relevante sobre el proyecto Patinaje Ardiente."
