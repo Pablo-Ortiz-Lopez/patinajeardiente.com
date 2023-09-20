@@ -16,7 +16,6 @@ defaultContentLanguageInSubdir = false
 [languages]
   [languages.es]
     contentDir = 'content/es'
-    disabled = false
     languageCode = 'es'
     languageDirection = 'ltr'
     languageName = 'Español'
@@ -24,12 +23,11 @@ defaultContentLanguageInSubdir = false
     weight = 1
     [languages.es.params]
       subtitle = 'Patinaje Ardiente'
-    [languages.en.params.sidebar]
+    [languages.es.params.sidebar]
       subtitle = "En este blog podras encontrar toda la información relevante sobre el proyecto Patinaje Ardiente."
 
   [languages.en]
     contentDir = 'content/en'
-    disabled = false
     languageCode = 'en'
     languageDirection = 'ltr'
     languageName = 'English'
