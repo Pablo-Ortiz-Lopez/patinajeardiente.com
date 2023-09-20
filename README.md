@@ -3,7 +3,7 @@
 This blog is powered by Hugo, a static site generator.
 
 ## Development Mode
-To build in development mode, ensure you have Hugo installed, and the submodules cloned. Then, run the following command:
+To run in development mode, ensure you have Docker installed, and the submodules cloned. Then, run the following command:
 ```bash
 ./dev.sh
 ```
