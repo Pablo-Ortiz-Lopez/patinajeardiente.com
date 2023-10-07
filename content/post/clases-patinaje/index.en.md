@@ -12,9 +12,9 @@ tags:
 ---
 ## **Schedule:**
 
-- Beginners/Adventurers: Tuesday 5:45 PM - 6:45 PM or Sunday 10:00 AM - 11:00 AM
-- Intermediate/Enthusiasts: Tuesday 7:00 PM - 8:00 PM or Sunday 11:15 AM - 12:15 PM
-- Advanced/Masters: Thursday 6:30 PM - 7:30 PM or Sunday 12:30 PM - 1:30 PM
+- Beginners/Adventurers: Thursday 5:45 PM - 6:45 PM or Sunday 10:00 AM - 11:00 AM
+- Intermediate/Enthusiasts: Thursday 7:00 PM - 8:00 PM or Sunday 11:15 AM - 12:15 PM
+- Advanced/Masters: Tuesday 6:30 PM - 7:30 PM or Sunday 12:30 PM - 1:30 PM
 
 ## **Class Descriptions:**
 

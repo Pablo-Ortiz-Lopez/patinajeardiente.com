@@ -12,9 +12,9 @@ tags:
 ---
 ## **Horario:**
 
-- Iniciación/Aventureros: martes 17:45h - 18:45h o domingo 10:00h - 11:00h
-- Intermedio/Curiosos: martes 19:00h - 20:00h o domingo 11:15h - 12:15h
-- Avanzado/Maestros: jueves 18:30h - 19:30h o domingo 12:30h - 13:30h
+- Iniciación/Aventureros: jueves 17:45h - 18:45h o domingo 10:00h - 11:00h
+- Intermedio/Curiosos: jueves 19:00h - 20:00h o domingo 11:15h - 12:15h
+- Avanzado/Maestros: martes 18:30h - 19:30h o domingo 12:30h - 13:30h
 
 ## **Descripción de las clases:**
 
